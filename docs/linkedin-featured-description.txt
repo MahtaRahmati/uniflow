@@ -1,0 +1,3 @@
+Course management with credit totals, assignments, exams, priorities, deadlines, and progress.
+
+برنامه‌ریزی درس، تمرین و امتحان با واحد، مهلت، اولویت، پیشرفت، تقویم و تحلیل بار کاری هفتگی.

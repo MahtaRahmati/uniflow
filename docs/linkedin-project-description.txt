@@ -1,0 +1,12 @@
+Course management with credit totals, assignments, exams, priorities, deadlines, and progress.
+
+Upcoming and overdue work, completion summaries, estimated remaining hours, and weekly workload analysis.
+
+Monthly deadline calendar, editable tasks/courses, local persistence, and validated JSON backup import/export.
+
+Stack: JavaScript, HTML, CSS, browser APIs.
+
+GitHub: https://github.com/MahtaRahmati/uniflow
+
+فارسی:
+برنامه‌ریزی درس، تمرین و امتحان با واحد، مهلت، اولویت، پیشرفت، تقویم و تحلیل بار کاری هفتگی.

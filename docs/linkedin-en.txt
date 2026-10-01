@@ -1,0 +1,14 @@
+Project 5/6: UniFlow — Student Course & Exam Planner
+
+• Course management with credit totals, assignments, exams, priorities, deadlines, and progress.
+• Upcoming and overdue work, completion summaries, estimated remaining hours, and weekly workload analysis.
+• Monthly deadline calendar, editable tasks/courses, local persistence, and validated JSON backup import/export.
+
+Stack: JavaScript, HTML, CSS, browser APIs.
+Includes automated tests for the core logic.
+
+Source code and setup: https://github.com/MahtaRahmati/uniflow
+
+Feedback and code reviews are welcome.
+
+#JavaScript #StudentLife #Productivity #WebDevelopment
